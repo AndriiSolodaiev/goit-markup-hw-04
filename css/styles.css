@@ -484,6 +484,7 @@ color: var(--title-text-color-dark-bcgr);
 .project-identifire {
     font-size: 16px;
     line-height: 1.88;
+    color: var(--general-text-color)
 }
 .adress-social-container {
     display: flex;
